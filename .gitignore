@@ -24,6 +24,8 @@ neardev/
 
 # Editor directories and files
 .idea/
+.devcontainer/
+.github/
 .vscode/*
 !.vscode/extensions.json
 !.vscode/settings.json

@@ -1,7 +1,6 @@
 ## Web4 Assistant
 
 NEAR AI agent embedded into an onchain page:
-[https://multai.near.page](multai.near.page)
+[multai.near.page](https://multai.near.page)
 
-> **Documentation:**
-> --> [https://docs.near.ai/agents/registry/?h=emb#basic-embedding](docs.near.ai/agents/registry)
+> **Documentation:** [docs.near.ai/agents/registry](https://docs.near.ai/agents/registry/?h=emb#basic-embedding)
